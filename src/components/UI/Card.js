@@ -1,4 +1,4 @@
-import "../styles/Card.css";
+import "../../styles/Card.css";
 function Card(props) {
   const classes = "card " + props.className;
   return <div className={classes}>{props.children}</div>;
