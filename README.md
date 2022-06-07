@@ -1,6 +1,6 @@
 
-# Simple app to track expenses
-
+# Expense tracker 
+A simple app to track expenses , built by Reactjs and bootstrapped with Create React App
 
 
 
