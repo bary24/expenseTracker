@@ -1,5 +1,5 @@
 
-#Simple app to track expenses
+# Simple app to track expenses
 
 
 
