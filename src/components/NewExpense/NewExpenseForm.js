@@ -8,7 +8,6 @@ const NewExpenseForm = (props) => {
 
   const titleChangeHandler = (event) => {
     setEnteredTitle(event.target.value);
-    console.log(enteredTitle);
   };
 
   const amountChangeHandler = (event) => {
