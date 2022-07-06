@@ -7,6 +7,7 @@ const ExpensesFilter = (props) => {
     let year = event.target.value;
     props.onFilterChange(year);
   };
+
   return (
     <div className="expenses-filter">
       <div className="expenses-filter__control">
